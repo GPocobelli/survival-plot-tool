@@ -29,7 +29,7 @@
  - Functions are available via the script **`survival_utils.R`**:  
 
 ```r
-source("path/to/survival_util.R")
+source("path/to/survival_utils.R")
 ```
 
 <br> <br>
